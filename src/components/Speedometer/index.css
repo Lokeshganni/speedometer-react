@@ -1,0 +1,50 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  height: 100vh;
+  background-color: #07080c;
+  font-family: 'Roboto';
+}
+
+.heading {
+  color: white;
+  font-size: 35px;
+}
+
+.mini-heading {
+  font-size: 27px;
+}
+
+.speed-img {
+  width: 50%;
+}
+
+.para {
+  color: #cbd5e1;
+  font-size: 14px;
+}
+
+.btn-cmn {
+  border-radius: 5px;
+  font-size: 12px;
+  margin: 7px;
+  padding: 10px 12px;
+}
+
+.btn-1 {
+  background-color: #0b69ff;
+  border-width: 0;
+  color: white;
+}
+
+.btn-2 {
+  background-color: transparent;
+  color: #94a3b8;
+  border-width: 1px;
+  border-color: #cbd5e1;
+}
